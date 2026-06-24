@@ -2,7 +2,7 @@
 
 A fast Solana copy-trading bot leveraging Jito to mirror any transaction from a designated "copy" wallet. Supports all major DEXs (Pump.fun, Pump.fun AMM, Raydium, Meteora, Moonshot, Orca, Jupiter) and includes essential features for automated trading.
 
-🔗 **Repository:** https://github.com/ahk780/solana-copy-trading-bot  
+🔗 **Repository:** https://github.com/bigmacman1129/solana-copy-trading-bot  
 ⭐ Give this repo a star if you find it helpful!  
 
 ## Video Guide
@@ -64,7 +64,7 @@ This bot connects to CoinVera's WebSocket API to subscribe to trades of a specif
 ## Installation
 
 ```bash
-git clone https://github.com/ahk780/solana-copy-trading-bot.git
+git clone https://github.com/bigmacman1129/solana-copy-trading-bot.git
 cd solana-copy-trading-bot
 npm install
 mv .env.example .env
@@ -327,7 +327,7 @@ Refer to the `.env.example` for details and examples.
 
 ## Community & Support
 
-- ⭐ Star the repo: https://github.com/ahk780/solana-copy-trading-bot  
+- ⭐ Star the repo: https://github.com/bigmacman1129/solana-copy-trading-bot  
 - 💬 Join our Telegram to request features or get help:  
   https://t.me/ahk782  
 
